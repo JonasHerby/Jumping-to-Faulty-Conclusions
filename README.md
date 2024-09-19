@@ -6,6 +6,5 @@ The code is a rewrite of the code from Ege et al. found here: https://www.nature
 The data are also from Ege et al. found in the same place.
 
 **How to**
-Copy code and data to a folder and run the code. The code will generate 
-* 4 images(2 images for each of the 2 scenarios)
-* 1 Excel file with weights
+Copy code and data to a folder and run the code. The code will generate 4 images (2 images for each of the 2 scenarios)
+
